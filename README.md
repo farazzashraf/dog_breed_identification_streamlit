@@ -22,7 +22,9 @@ git clone https://github.com/yourusername/dog_breed_identification.git
 cd dog_breed_identification
 
 python -m venv venv
-# For Windows use `venv\Scripts\activate`
+# For Windows use
+venv\Scripts\activate
+
 pip install -r requirements.txt
 
 python app2.py
