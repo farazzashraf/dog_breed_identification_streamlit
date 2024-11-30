@@ -4,3 +4,4 @@ tensorflow-hub
 pillow>=7.1.0,<12
 numpy
 flask
+ultralytics
